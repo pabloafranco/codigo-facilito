@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codigo-facilito/static/css/main.dc55abbf.css",
+    "main.js": "/codigo-facilito/static/js/main.67d4335a.js",
+    "static/js/787.28183414.chunk.js": "/codigo-facilito/static/js/787.28183414.chunk.js",
+    "index.html": "/codigo-facilito/index.html",
+    "main.dc55abbf.css.map": "/codigo-facilito/static/css/main.dc55abbf.css.map",
+    "main.67d4335a.js.map": "/codigo-facilito/static/js/main.67d4335a.js.map",
+    "787.28183414.chunk.js.map": "/codigo-facilito/static/js/787.28183414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc55abbf.css",
+    "static/js/main.67d4335a.js"
+  ]
+}
